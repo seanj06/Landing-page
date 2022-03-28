@@ -1,0 +1,29 @@
+
+
+.header-logo{
+    display: flex;
+    background-color: #1f2937;
+    font-weight: bolder;
+    color: #f9faf8;;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.header-links{
+    display: flex;
+    background-color: #1f2937;
+    justify-content: flex-end;
+    align-items: flex-start;
+    color: #f9faf8;
+    flex-grow: initial;
+    
+}
+ 
+h1{
+    display: flex;
+    background-color: #1f2937;
+    font-weight: bold;
+    color: #f9faf8;
+    padding: 0%;
+}
+
